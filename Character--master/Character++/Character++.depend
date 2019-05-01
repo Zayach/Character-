@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556694064 source:c:\users\zach\desktop\character--master\character++\character++.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"Character.h"
+	<fstream>
+	<string>
+
+1556685853 source:c:\users\zach\desktop\character--master\character++\character.cpp
+	"Character.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1556694029 c:\users\zach\desktop\character--master\character++\character.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
